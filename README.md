@@ -9,13 +9,13 @@ This is a simple Weather Web App developed using Spring Boot and JSP. The app fe
 4.API Integration: Utilizes the Weather API from RapidAPI to obtain accurate weather information.
 
 # Technologies Used
-Backend: Spring Boot
-Frontend: JSP (JavaServer Pages)
+Backend: Spring Boot  
+Frontend: JSP (JavaServer Pages)  
 API: Weather API from RapidAPI
 
 # How It Works
-The user inputs a city name into the search bar.
-The app sends a request to the Weather API via RapidAPI.
+The user inputs a city name into the search bar.  
+The app sends a request to the Weather API via RapidAPI.  
 The current weather data and a five-day forecast for the specified city are retrieved and displayed on the page.
 
 # API Reference
