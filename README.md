@@ -1,5 +1,4 @@
-![Screenshot (5)](https://github.com/user-attachments/assets/67b00afd-0452-4d49-be22-88b1557c73c0)
-![Screenshot (6)](https://github.com/user-attachments/assets/62161380-a414-469a-9fca-ff2f625bbc6b)
+
 # Weather Web App
 # Overview
 This is a simple Weather Web App developed using Spring Boot and JSP. The app fetches real-time weather data and a five-day weather forecast from the Weather API provided by RapidAPI. Users can input a city name to retrieve the current weather conditions and the forecast for the next five days.
@@ -23,3 +22,6 @@ The current weather data and a five-day forecast for the specified city are retr
 # API Reference
 Weather API: https://rapidapi.com/worldapi/api/open-weather13/playground/apiendpoint_d15cd885-e8e5-49e7-b94b-588c41687aa1
 
+![Screenshot (5)](https://github.com/user-attachments/assets/67b00afd-0452-4d49-be22-88b1557c73c0)
+![Screenshot (6)](https://github.com/user-attachments/assets/62161380-a414-469a-9fca-ff2f625bbc6b)
+![five days weather forecast](https://github.com/user-attachments/assets/04dd0319-54a7-4b52-afcd-d162d167ce8c)
