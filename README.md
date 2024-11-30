@@ -20,7 +20,7 @@ The app sends a request to the Weather API via RapidAPI.
 The current weather data and a five-day forecast for the specified city are retrieved and displayed on the page.
 
 # API Reference
-Weather API: https://rapidapi.com/worldapi/api/open-weather13/playground/apiendpoint_d15cd885-e8e5-49e7-b94b-588c41687aa1
+Weather API: https://rapidapi.com/worldapi/api/open-weather13
 
 # screenshots
 
