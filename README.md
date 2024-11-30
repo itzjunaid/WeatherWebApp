@@ -22,8 +22,8 @@ The current weather data and a five-day forecast for the specified city are retr
 # API Reference
 Weather API: https://rapidapi.com/worldapi/api/open-weather13
 
-# screenshots
+# Screenshots
+![Screenshot (6)](https://github.com/user-attachments/assets/06bc2057-7ca6-4005-bfc9-82b2342e5ce3)
+![Screenshot (5)](https://github.com/user-attachments/assets/13b24027-14ea-4f7c-b626-7fd95601b4d1)
+![five days weather forecast](https://github.com/user-attachments/assets/ca9414d2-c0da-4c73-b20b-fd1689e62297)
 
-![Screenshot (5)](https://github.com/user-attachments/assets/67b00afd-0452-4d49-be22-88b1557c73c0)
-![Screenshot (6)](https://github.com/user-attachments/assets/62161380-a414-469a-9fca-ff2f625bbc6b)
-![five days weather forecast](https://github.com/user-attachments/assets/04dd0319-54a7-4b52-afcd-d162d167ce8c)
